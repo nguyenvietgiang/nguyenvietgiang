@@ -4,8 +4,8 @@
   <h3 align="center">A developer from Vietnam 🇻🇳 </h3>
 </p>
 
-- 🌱 Studying and working as a **Website Developer**.
-
+- 🌱 Studying and working as a **Website Developer**, I often work with ASP.NET Core and Angular, and I am also familiar with Express.js and React. I am constantly seeking opportunities to learn and enhance my skills to improve myself.
+- 🌱 Hope you can find what you need here <3.
 <br />
 
 ### 📫 How to reach me:
