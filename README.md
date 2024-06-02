@@ -17,6 +17,7 @@
   <a href="mailto:vietgiang111001@gmail.com" alt="Email">
     <img src="https://img.icons8.com/color/38/null/gmail--v1.png"/>
   </a>
+  <img height="28px" src="https://komarev.com/ghpvc/?username=nguyenvietgiang&color=blue">
 </p>
 
 ### Skills:
