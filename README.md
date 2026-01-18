@@ -33,6 +33,5 @@
       </p>
     </td>
   </tr>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvietgiang&" alt="nguyenvietgiang" /></p>
 </table>
 
