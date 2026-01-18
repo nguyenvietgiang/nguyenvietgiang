@@ -4,7 +4,7 @@
   <h3 align="center">A Web developer from Vietnam 🇻🇳 </h3>
 </p>
 - 🌱 Nice to meet you Here.
-- 🌱 Studying and working as a **Website Developer**, I often work with ASP.NET Core and Angular. I am constantly seeking opportunities to learn and enhance my skills to improve myself.
+- 🌱 Working as a **Website Developer**, I often work with ASP.NET Core. I am constantly seeking opportunities to learn and enhance my skills to improve myself.
 - 🌱 Hope you can find what you need here <3.
 <br />
 
@@ -27,13 +27,7 @@
 
 <table align="center" style="width:100%;border-radius:12px;display:flex;justify-content:space-between;flex-wrap:wrap;">
   <tr style="width:80%;">
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvietgiang&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10" alt="vietgiang" width="100%"/>
-  </div>
-  <div style="width:80%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=nguyenvietgiang&show_icons=true&theme=radical&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true" alt="vietgiang" width="100%">
-    </td>
-    <td style="width:30%;">
+    <td style="width:100%;">
       <p align="center"> 
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
